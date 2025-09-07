@@ -1,6 +1,7 @@
 ### INF601 - Advanced Programming in Python
 ### Jason Zeller
-### API practice 
+### API practice  :smile:
+
  
  
 # Project Title
