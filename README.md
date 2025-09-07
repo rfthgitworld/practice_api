@@ -1,6 +1,7 @@
 ### INF601 - Advanced Programming in Python
 ### Jason Zeller
-### API practice 
+### API practice  :smile:
+
  
  
 # Project Title
@@ -16,7 +17,7 @@ An in-depth paragraph about your project and overview of use.
 ### Dependencies
  
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* ex. Windows 11
 * List pip install instructions.
  
 ### Installing
